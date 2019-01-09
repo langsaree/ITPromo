@@ -2,486 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d73e656-9d3f-435f-8c08-f3b89d841f5c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/it-project-system.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/forms/PF01 - IT Project - Adviser Proposal Project Approval Letter.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/forms/PF02 - IT Project - Officer recieve copy of Project Proposal.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/forms/PF04 - IT Project - Project Proposal Approval Letter.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/forms/PF05 - IT Project - Officer recieve Complete Project Proposal.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/forms/PF06 - IT Project - Consultation Log Book.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/forms/PF11 - IT Project - Project Approval Letter.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/guide/1-Information Technology Project - Procedure.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/guide/Khoeld Langsari_โครงงานเทคโนโลยี - Information Technology Project  - Flow Process 2018-2.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/guide/Khoeld Langsari_โครงงานเทคโนโลยี - Information Technology Project  - Process v1-2018.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/schedule/Khoeld Langsari - IT2301-321  Information Technology Project I - หมวดที่ 5  แผนการรดำเนินโครงงาน _2018-2.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/schedule/Khoeld Langsari - IT234-232 - Information Technology Project - หมวดที่ 5  แผนการรดำเนินโครงงาน _2018-2.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/form.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/guide.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/host.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/register.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/schedule.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sign-in.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-grid.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-reboot.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.bundle.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0-dist/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.babelrc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.eslintignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.eslintrc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.github/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.github/ISSUE_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.stylelintignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.stylelintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/CNAME" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/CODE_OF_CONDUCT.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/Gemfile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/Gemfile.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_config.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/breakpoints.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/browser-bugs.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/browser-features.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/colors.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/examples.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/grays.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/nav.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/theme-colors.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_data/translations.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/ads.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/callout-danger-async-methods.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/callout-info-mediaqueries-breakpoints.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/callout-warning-color-assistive-technologies.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/docs-navbar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/docs-sidebar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/favicons.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/footer.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/header.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/bootstrap.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/download.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/github.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/import.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/lightning.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/menu.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/slack.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/icons/twitter.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/scripts.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_includes/social.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_layouts/default.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_layouts/docs.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_layouts/examples.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_layouts/home.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_layouts/redirect.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_layouts/simple.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_plugins/bugify.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_plugins/callout.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_plugins/example.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/_plugins/markdown-block.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/brand/bootstrap-outline.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/brand/bootstrap-punchout.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/brand/bootstrap-social-logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/brand/bootstrap-social.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/brand/bootstrap-solid.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/css/docs.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/css/docs.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/bootstrap-stack.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/bootstrap-themes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/android-chrome-192x192.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/android-chrome-512x512.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/apple-touch-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/browserconfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/favicon-16x16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/favicon-32x32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/mstile-144x144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/mstile-150x150.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/mstile-310x150.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/mstile-310x310.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/mstile-70x70.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/img/favicons/safari-pinned-tab.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/.eslintrc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/docs.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/src/application.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/src/ie-emulation-modes-warning.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/src/pwa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/vendor/anchor.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/vendor/clipboard.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/vendor/holder.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/js/vendor/popper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_ads.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_algolia.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_anchor.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_brand.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_browser-bugs.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_callouts.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_clipboard-js.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_colors.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_component-examples.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_content.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_examples.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_footer.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_masthead.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_nav.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_sidebar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_skiplink.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_syntax.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/assets/scss/docs.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/.eslintrc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/.htmllintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/change-version.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/gcp-key.json.enc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/generate-sri.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/lint-vars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/postcss.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/rollup.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/sauce_browsers.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/saucelabs-unit-test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/ship.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/upload-preview.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/vnu-jar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/workbox.config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/build/workbox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-grid.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-reboot.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.bundle.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/dist/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/about/brand.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/about/license.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/about/overview.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/about/translations.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/browser-bugs.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/alerts.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/badge.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/breadcrumb.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/button-group.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/buttons.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/card.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/carousel.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/collapse.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/dropdowns.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/forms.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/input-group.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/jumbotron.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/list-group.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/modal.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/navbar.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/navs.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/pagination.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/popovers.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/progress.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/scrollspy.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/components/tooltips.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/content/code.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/content/figures.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/content/images.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/content/reboot.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/content/tables.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/content/typography.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/.eslintrc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/.stylelintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/album/album.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/album/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/blog/blog.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/blog/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/carousel/carousel.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/carousel/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/checkout/form-validation.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/checkout/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/cover/cover.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/cover/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/dashboard/dashboard.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/dashboard/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/floating-labels/floating-labels.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/floating-labels/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/grid/grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/grid/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/jumbotron/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/jumbotron/jumbotron.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/navbar-bottom/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/navbar-top-fixed.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/navbar-static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/navbar-static/navbar-top.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/navbars/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/navbars/navbar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/offcanvas/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/pricing/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/pricing/pricing.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/product/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/product/product.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/album.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/blog.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/carousel.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/checkout.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/cover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/dashboard.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/floating-labels.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/grid.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/jumbotron.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-bottom.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-fixed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-static.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbars.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/offcanvas.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/pricing.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/product.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/sign-in.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/starter-template.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer-navbar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/sign-in/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/sign-in/signin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/starter-template/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/starter-template/starter-template.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/sticky-footer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/extend/approach.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/extend/icons.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/extend/index.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/accessibility.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/best-practices.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/browsers-devices.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/build-tools.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/contents.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/download.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/introduction.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/javascript.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/theming.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/getting-started/webpack.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/layout/grid.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/layout/media-object.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/layout/overview.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/layout/utilities-for-layout.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/migration.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/borders.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/clearfix.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/close-icon.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/colors.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/display.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/embed.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/flex.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/float.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/image-replacement.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/position.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/screenreaders.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/sizing.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/spacing.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/text.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/vertical-align.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/docs/4.0/utilities/visibility.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/alert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/alert.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/button.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/carousel.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/collapse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/collapse.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/dropdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/dropdown.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/index.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/modal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/modal.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/popover.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/popover.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/scrollspy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/scrollspy.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/tab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/tab.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/tooltip.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/tooltip.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/dist/util.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/alert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/collapse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/dropdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/modal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/popover.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/scrollspy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/tab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/tooltip.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/src/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/karma.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/.eslintrc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/alert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/collapse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/dropdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/modal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/popover.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/scrollspy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/tab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/tooltip.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/unit/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/vendor/jquery-1.9.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/vendor/qunit.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/vendor/qunit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/alert.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/button.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/carousel.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/collapse.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/dropdown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/modal.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/popover.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/scrollspy.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/tab.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/js/tests/visual/tooltip.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/nuget/MyGet.ps1" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/nuget/bootstrap.nuspec" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/nuget/bootstrap.sass.nuspec" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/package.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/sache.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_breadcrumb.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_button-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_card.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_carousel.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_close.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_code.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_custom-forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_dropdown.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_functions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_images.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_input-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_jumbotron.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_media.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_modal.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_nav.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_navbar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_popover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_print.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_progress.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_root.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_tables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_tooltip.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_transitions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_type.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_utilities.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/bootstrap-grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/bootstrap-reboot.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/bootstrap.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_alert.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_background-variant.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_badge.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_border-radius.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_box-shadow.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_breakpoints.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_caret.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_gradients.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_grid-framework.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_hover.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_image.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_list-group.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_lists.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_nav-divider.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_navbar-align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_pagination.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_reset-text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_resize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_size.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_table-row.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_text-emphasis.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_text-hide.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_text-truncate.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_transition.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/mixins/_visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_align.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_background.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_borders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_clearfix.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_display.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_embed.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_flex.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_float.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_position.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_screenreaders.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_sizing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_spacing.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_text.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/scss/utilities/_visibility.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/bootstrap-4.0.0/sw.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/jquery/jquery-slim.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vender/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lecturer.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -495,91 +18,19 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="45" column="81" lean-forward="false" selection-start-line="45" selection-start-column="81" selection-end-line="45" selection-end-column="81" />
-              <folding>
-                <element signature="e#3981#3987#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="334">
+              <caret line="74" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.html">
+      <file leaf-file-name="lecturer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lecturer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="77" lean-forward="false" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
-              <folding>
-                <element signature="e#6648#6654#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="host.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/host.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-              <folding>
-                <element signature="e#3496#3502#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="schedule.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/schedule.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="77" lean-forward="false" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
+            <state relative-caret-position="191">
+              <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sign-in.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sign-in.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-              <folding>
-                <element signature="e#2873#2879#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-              <folding>
-                <element signature="e#2008#2014#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guide.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/guide.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding>
-                <element signature="e#3002#3008#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -587,11 +38,9 @@
       <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-              <folding>
-                <element signature="e#7012#7018#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="319">
+              <caret line="65" column="11" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="65" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -618,7 +67,6 @@
         <option value="$PROJECT_DIR$/counter.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/form.html" />
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/schedule.html" />
@@ -626,6 +74,8 @@
         <option value="$PROJECT_DIR$/host.html" />
         <option value="$PROJECT_DIR$/project.html" />
         <option value="$PROJECT_DIR$/guide.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lecturer.html" />
       </list>
     </option>
   </component>
@@ -637,8 +87,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
-    <option name="y" value="56" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="840" />
   </component>
@@ -658,10 +107,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="it-project-monitoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="it-project-monitoring" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
             <path>
               <item name="it-project-monitoring" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
@@ -670,6 +122,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -736,23 +189,26 @@
       <workItem from="1544352806436" duration="4562000" />
       <workItem from="1544620571276" duration="3126000" />
       <workItem from="1544797098095" duration="1785000" />
+      <workItem from="1545042342284" duration="998000" />
+      <workItem from="1545123927077" duration="1371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49716000" />
+    <option name="totallyTimeSpent" value="52085000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="56" width="1440" height="840" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28183118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -784,7 +240,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/start-page.html" />
     <entry file="file://$PROJECT_DIR$/vender/bootstrap-3.3.7/docs/examples/theme/theme.css" />
     <entry file="file://$PROJECT_DIR$/sign-in.html" />
     <entry file="file://$PROJECT_DIR$/vender/chartjs/Chart.js" />
@@ -961,33 +416,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="45" column="81" lean-forward="false" selection-start-line="45" selection-start-column="81" selection-end-line="45" selection-end-column="81" />
-          <folding>
-            <element signature="e#3981#3987#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-          <folding>
-            <element signature="e#7012#7018#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-          <folding>
-            <element signature="e#2008#2014#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -995,9 +428,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
-          <folding>
-            <element signature="e#2873#2879#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,9 +444,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-          <folding>
-            <element signature="e#3496#3502#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,9 +452,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="48" column="77" lean-forward="false" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
-          <folding>
-            <element signature="e#6648#6654#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-73">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,9 +467,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="e#3002#3008#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="74" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="65" column="11" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="65" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lecturer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="61" column="67" lean-forward="false" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
